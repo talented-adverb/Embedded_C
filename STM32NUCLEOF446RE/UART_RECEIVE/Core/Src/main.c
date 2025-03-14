@@ -56,6 +56,7 @@ static void MX_USART2_UART_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 uint8_t rx_buffer[4];
+uint8_t rx_buffer2[4];
 /* USER CODE END 0 */
 
 /**
